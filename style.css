@@ -1,0 +1,37 @@
+*{
+    text-decoration: none;
+}
+body{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.h1{
+    color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 20 px;
+}
+.p{
+    color: green;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-transform: uppercase;
+}
+.btn{
+    padding: 20px 40 px;
+    color: blue;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+.button{
+    background-color: aquamarine;
+    border: 6px;
+    margin-bottom: 20px;
+}
+.img{
+    display: block;
+    margin-top: 20px;
+    max-width: 500px;
+    border-radius: 6px;
+}
